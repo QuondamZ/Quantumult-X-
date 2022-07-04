@@ -1,3 +1,3 @@
 # Quantumult-X-Rewrite-Script
 
-##Quantumult X重写规则
+## Quantumult X重写规则
